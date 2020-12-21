@@ -1,4 +1,4 @@
-import config from './privateconfig.json';
+import config from './config.json';
 import Discord from 'discord.js';
 
 const client = new Discord.Client();
