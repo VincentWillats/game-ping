@@ -35,7 +35,7 @@ client.on('message', function (message) {
 
                 if (membersInWantedGamed.length > 0) {
                     console.log(membersInWantedGamed);
-                    message.channel.send(membersInWantedGamed.join(''));
+                    message.channel.send(membersInWantedGamed.join(' '));
                 }
             })
             .catch((err) => {
