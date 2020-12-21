@@ -1,6 +1,6 @@
 # Game Ping
 
-Game Ping lets you mention all users currently playing the given game.
+Game Ping is a simple discord bot that lets you mention all users currently playing the given game.
 
 Use by simply typing in chat `!game "game name"`
 
