@@ -6,7 +6,5 @@
 4. Enable the two toggles "Presence Intent" and "Server Memebers Intent"
 5. Navigate to OAuth2, scroll down and select bot, then scroll down and select "Send Messages" and "Mention Everyone"
 6. Copy the url and paste it in your browser, add it to your desired server.
-7. Run npm install
-8. Run npx tsc
-9. Run node build/index.js
-10. Use by typing !game "game name" in the chat and it will @mention everyone playing that game.
+7. In the root project folder Run; `npm install`, `npx tsc` and `node build/index.js`
+8. Use by typing !game "game name" in the chat and it will @mention everyone playing that game.
