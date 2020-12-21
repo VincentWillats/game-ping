@@ -1,5 +1,9 @@
 # game-ping
 
+Game Ping lets you mention all users currently playing the given game.
+
+Use by simply typing in chat `!game "game name"`
+
 1. Create new Discord application here - https://discord.com/developers/applications
 2. Copy Client ID into config.json
 3. On the discord developers site with your new application selected click Bot then Add Bot
